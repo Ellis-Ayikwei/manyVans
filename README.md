@@ -1,4 +1,4 @@
-# Logistics Company Settings Component
+# Logistics Company Web App
 
 A comprehensive logistics movers webapp, designed for logistics and moving companies. Built with React, TypeScript, and Tailwind CSS.
 
